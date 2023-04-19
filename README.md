@@ -22,7 +22,7 @@ Find the inverse of a matrix
 ### Step 4: 
 Print the result
 ## Program:
-'''
+```
 #Program to find the inverse of a matrix.
 #Developed by: NANDHINI.E
 #RegisterNumber:212222100030
@@ -30,7 +30,7 @@ import numpy as np
 A=np.array([[2,1,1],[1,1,1],[1,-1,2]])
 inverse=np.linalg.inv(A)
 print(inverse)
-'''
+```
 ## Output:
 ![inverse of matrix](https://user-images.githubusercontent.com/121998147/232415285-a93456d6-d2a0-42a7-a36f-af93eb4e41b2.png)
 
